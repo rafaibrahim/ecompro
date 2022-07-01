@@ -1,1 +1,1 @@
-web: gunicorn ecompro.wsgi--log-file -
+web: gunicorn ecompro.wsgi --log-file -
